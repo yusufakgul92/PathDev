@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PathDev.ApiGateway.OcelotApiGw.props" />
+</Project>

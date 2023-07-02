@@ -1,0 +1,12 @@
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\obj\Debug\net7.0\PathDev.Core.Model.csproj.AssemblyReference.cache
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\obj\Debug\net7.0\PathDev.Core.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\obj\Debug\net7.0\PathDev.Core.Model.AssemblyInfoInputs.cache
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\obj\Debug\net7.0\PathDev.Core.Model.AssemblyInfo.cs
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\obj\Debug\net7.0\PathDev.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\bin\Debug\net7.0\PathDev.Core.Model.deps.json
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\bin\Debug\net7.0\PathDev.Core.Model.dll
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\bin\Debug\net7.0\PathDev.Core.Model.pdb
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\obj\Debug\net7.0\PathDev.Core.Model.dll
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\obj\Debug\net7.0\refint\PathDev.Core.Model.dll
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\obj\Debug\net7.0\PathDev.Core.Model.pdb
+C:\Users\yusufa\Documents\Dev\PathDev\Core\PathDev.Core.Model\obj\Debug\net7.0\ref\PathDev.Core.Model.dll

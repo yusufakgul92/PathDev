@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FLkAUAeJbLmY0qlSR8juqCKVIePDwA4AP6VLxmUfpM4=",
+  "Source": "PathDev.Services.LoginService",
+  "BasePath": "_content/PathDev.Services.LoginService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

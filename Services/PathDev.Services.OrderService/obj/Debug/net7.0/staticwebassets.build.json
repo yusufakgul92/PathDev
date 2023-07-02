@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zJjYDDL82qurI2qH2nUqGW5aoVUMe22qyvjOr9ch9iY=",
+  "Source": "PathDev.Services.OrderService",
+  "BasePath": "_content/PathDev.Services.OrderService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
