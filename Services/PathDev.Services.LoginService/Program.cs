@@ -96,7 +96,7 @@ builder.Services.AddAuthentication(options =>
 
 var app = builder.Build();
 
-app.UseSwaggerAuthorized();
+//app.UseSwaggerAuthorized();
 
 app.UseSwagger();
 app.UseSwaggerUI(c =>
